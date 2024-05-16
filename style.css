@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #deae4d;
+}
+.about {
+  padding-top: 2rem;
+  background-color: warning;
+}
+.section {
+  padding-top: 5rem;
+}
+
+.kaki {
+  text-align: center;
+}
+.projects {
+  padding: 100px 100px;
+  color: #fff;
+}
